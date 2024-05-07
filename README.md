@@ -31,12 +31,6 @@ regr.fit(a,b)
 print("Coefficient: ",regr.coef_)
 print("Intercept:",regr.intercept_)
 print("Account",regr.predict([[3300,1300]]))
-
-
-
-
-
-
 ```
 ## Output:
 ### Insert your output
